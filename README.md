@@ -1,6 +1,4 @@
 # Initial page
 
-{% file src=".gitbook/assets/img-20201001-wa0002.jpg" caption="Tafelbild" %}
-
-
+![Tafelbild vom 1.10.2020](.gitbook/assets/img-20201001-wa0002.jpg)
 
