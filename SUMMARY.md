@@ -4,10 +4,9 @@
 
 ## Definitionen
 
-* [Untitled](definitionen/untitled/README.md)
-  * [Generelles](definitionen/untitled/generelles.md)
-  * [Ticketinfo](definitionen/untitled/ticketinfo.md)
-  * [Funktionen für Bearbeitung](definitionen/untitled/funktionen-fuer-bearbeitung.md)
+* [Generelles](definitionen/generelles.md)
+* [Ticketinfo](definitionen/ticketinfo.md)
+* [Funktionen für Bearbeitung](definitionen/funktionen-fuer-bearbeitung.md)
 
 ## Zeitplan
 
