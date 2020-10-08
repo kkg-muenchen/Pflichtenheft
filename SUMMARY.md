@@ -13,3 +13,7 @@
 * [Bis: Herbstferien](zeitplan/bis-herbstferien.md)
 * [Bis Weihnachten](zeitplan/bis-weihnachten.md)
 
+## Protokolle
+
+* [08.10.2020](protokolle/08.10.2020.md)
+
