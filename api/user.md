@@ -10,7 +10,7 @@
 | email | email |  |
 | klasse | String | _optional_ |
 
-{% api-method method="get" host="" path="/users/:id" %}
+{% api-method method="get" host="/" path="users/:id" %}
 {% api-method-summary %}
 Get Cakes
 {% endapi-method-summary %}
