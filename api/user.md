@@ -58,7 +58,7 @@ Authentifizierung um die Berechtigungen des Benutzers zu überprüfen
 
 {% api-method-response-example httpCode=404 %}
 {% api-method-response-example-description %}
-Could not find a cake matching this query.
+
 {% endapi-method-response-example-description %}
 
 ```javascript
