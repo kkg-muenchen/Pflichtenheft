@@ -37,7 +37,7 @@ Authentifizierung um die Berechtigungen des Benutzers zu überprüfen
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Cake successfully retrieved.
+
 {% endapi-method-response-example-description %}
 
 ```javascript
@@ -47,7 +47,7 @@ Cake successfully retrieved.
     "vorname": "Max",
     "nachname": "Musterman",
     "email": "max@example.com",
-    "klasse": "0c"
+    "klasse": "10c"
     "rolle": {
         "id": 1234567890,
         "permissions": []
