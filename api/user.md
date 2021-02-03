@@ -10,7 +10,7 @@
 | email | email |  |
 | klasse | String | _optional_ |
 
-{% api-method method="get" host="/" path="users/{user.id}" %}
+{% api-method method="get" host="/" path="users/:id" %}
 {% api-method-summary %}
 Get Cakes
 {% endapi-method-summary %}
@@ -22,7 +22,7 @@ This endpoint allows you to get free cakes.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" required=true %}
+{% api-method-parameter name="id" type="integer" required=true %}
 Die ID des Users
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
