@@ -12,7 +12,7 @@
 
 {% api-method method="get" host="/" path="users/:id" %}
 {% api-method-summary %}
-Get Cakes
+Get User
 {% endapi-method-summary %}
 
 {% api-method-description %}
