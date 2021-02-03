@@ -20,10 +20,8 @@
 
 ## API
 
----
-
-* [User](user.md)
-* [Rolle](rolle.md)
-* [Ticket](ticket.md)
-* [Kategorie](kategorie.md)
+* [User](api/user.md)
+* [Rolle](api/rolle.md)
+* [Ticket](api/ticket.md)
+* [Kategorie](api/kategorie.md)
 
