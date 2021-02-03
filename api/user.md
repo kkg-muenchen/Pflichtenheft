@@ -2,7 +2,7 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| **user\_id** | int | Die ID eines User |
+| **id** | int | Die ID eines User |
 | **username** | String |  |
 | **vorname** | String |  |
 | **nachname** | String |  |
@@ -10,7 +10,7 @@
 | email | email |  |
 | klasse | String | _optional_ |
 
-{% api-method method="get" host="/" path="users/:id" %}
+{% api-method method="get" host="/" path="users/{user.id}" %}
 {% api-method-summary %}
 Get Cakes
 {% endapi-method-summary %}
@@ -42,7 +42,7 @@ Cake successfully retrieved.
 
 ```javascript
 {
-    "user_id": 1234567890,
+    "id": 1234567890,
     "username": "MaxMusterman",
     "vorname": "Max",
     "nachname": "Musterman",
